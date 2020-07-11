@@ -87,7 +87,7 @@ begin
     writeln('Fill the list with integer element');
     fill(T, n);
     
-    writeln('Let the process work...');
+    writeln('Let the processing work...');
     Sort(T, n);
 
     writeln();

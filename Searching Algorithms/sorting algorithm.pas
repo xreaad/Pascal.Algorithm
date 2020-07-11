@@ -1,4 +1,5 @@
 program SortingAlgo;
+uses wincrt;
 type
     TAB = array [0..50] of integer; {define the list}
 var

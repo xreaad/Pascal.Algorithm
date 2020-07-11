@@ -17,9 +17,10 @@ The idea :
 
     Next will start check the list from the first index of no sorting part and find the index of max value and replace it like the other operation ...
 
+     * If the first value in the list is the max just skip the processing and go to the next index
  
 
-Process:
+Processing:
     - Goal => on end the program we need to sorting an list on order (from max to min).    
 
     1) we need a function to search the index of max value in the list
@@ -28,9 +29,9 @@ Process:
                                        3. n     => the number of item in list
 
     2) we need a procedure to replace the element if the idex of max value and the first value in no sorting part in the list
-        this procedure take 3 argument: 1. list
-                                        2. i  => the index of the bad value
-                                        3. m  => the index of the max value in the no sorting part
+        this procedure take 3 argument : 1. list
+                                         2. i  => the index of the bad value
+                                         3. m  => the index of the max value in the no sorting part
 
     3) we need a procedure sort to do the process into :
             - for loop to do the process step to step

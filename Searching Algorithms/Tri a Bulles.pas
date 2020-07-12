@@ -13,3 +13,11 @@ var
 			readln(T[i]);
 		end;
 	end;
+	
+	
+	procedure Affiche(T:TAB; n:integer);
+	begin
+		for i:=1 to n do
+			write(T[i], ' | ');
+	end;
+	

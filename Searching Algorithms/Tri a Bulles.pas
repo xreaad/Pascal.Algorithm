@@ -15,6 +15,7 @@ var
 	end;
 	
 	procedure Permuter(var T:TAB; j:integer);
+	var element : integer;
 	
 	
 	

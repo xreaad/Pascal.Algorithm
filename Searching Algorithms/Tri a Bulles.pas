@@ -14,6 +14,9 @@ var
 		end;
 	end;
 	
+	procedure Permuter(var T:TAB; j:integer);
+	
+	
 	
 	procedure Affiche(T:TAB; n:integer);
 	begin

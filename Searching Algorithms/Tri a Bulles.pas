@@ -31,6 +31,9 @@ var
 	end;
 	
 begin
-
+	write('Taille de tableau : ');
+	readln(n);
+	remplir(T, n);
+	
 
 end.

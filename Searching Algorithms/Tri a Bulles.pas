@@ -35,5 +35,5 @@ begin
 	readln(n);
 	remplir(T, n);
 	Trier(T, n);
-
+	Affiche(T, n);
 end.

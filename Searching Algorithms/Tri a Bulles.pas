@@ -22,6 +22,13 @@ var
 		T[j+1] := element;
 	end;
 	
+	procedure Trier(var T:TAB; n:integer);
+	var 
+	
+	begin
+	
+	end;
+	
 	
 	
 	procedure Affiche(T:TAB; n:integer);

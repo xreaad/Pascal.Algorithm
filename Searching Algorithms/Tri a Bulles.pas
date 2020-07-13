@@ -17,7 +17,9 @@ var
 	procedure Permuter(var T:TAB; j:integer);
 	var element : integer;
 	begin
-	
+		element := T[j];
+		T[j] := T[j+1];
+		T[j+1] := element;
 	end;
 	
 	

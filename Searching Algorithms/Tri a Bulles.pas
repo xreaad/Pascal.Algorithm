@@ -34,6 +34,6 @@ begin
 	write('Taille de tableau : ');
 	readln(n);
 	remplir(T, n);
-	
+	Trier(T, n);
 
 end.

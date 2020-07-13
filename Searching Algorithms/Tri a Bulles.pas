@@ -25,3 +25,4 @@ var
 			write(T[i], ' | ');
 	end;
 	
+begin

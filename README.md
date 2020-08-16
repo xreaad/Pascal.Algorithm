@@ -19,7 +19,7 @@ use this programming language as default of computer science education
 ## :exclamation: How it
 
 In this repo i will push the pascal code with a documentation maybe in the code (I mean put it as comment in the code)
-or in file .txt next to the code
+
 
 ### Enjoy guys !
 

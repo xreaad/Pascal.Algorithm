@@ -3,9 +3,8 @@ program helloworld;
         begin
                 writeln();
                 writeln('*****************');
-                writeln('*               *');
-                writeln('*               *');
-                writeln('*               *');
+                writeln('*    hello      *');
+                writeln('*     world!    *');
                 writeln('*****************');
 	end;
 begin

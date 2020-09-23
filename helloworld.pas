@@ -1,3 +1,4 @@
+{ !! }
 program helloworld;
         procedure logo();
         begin

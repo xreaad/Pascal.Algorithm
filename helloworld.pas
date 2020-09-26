@@ -1,4 +1,6 @@
 { !! }
+{ xreaad }
+
 program helloworld;
         procedure logo();
         begin
